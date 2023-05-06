@@ -1,0 +1,3 @@
+[submodule "deps/sqlite"]
+	path = deps/sqlite
+	url = https://gitee.com/kermitbuxk/sqlite.git
